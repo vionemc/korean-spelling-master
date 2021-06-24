@@ -1,0 +1,109 @@
+{
+  "list_chapter": [
+    {
+      "id": 1,
+      "photo": "https://raw.githubusercontent.com/arifbw/bank-soal-spelling-master-json/master/gbr_chapter/seoul.jpg",
+      "nama": "Seoul",
+      "difficulty": "easy",
+      "price": 0,
+      "desc": "Praesent nec nisl a purus blandit viverra. Donec mi odio, faucibus at, scelerisque quis, convallis in, nisi. Nam commodo suscipit quam. Vestibulum ante ipsum primis in faucibus orci luctus."
+    },
+    {
+      "id": 2,
+      "photo": "https://raw.githubusercontent.com/arifbw/bank-soal-spelling-master-json/master/gbr_chapter/busan.jpeg",
+      "nama": "Busan",
+      "difficulty": "easy",
+      "price": 0,
+      "desc": "Praesent nec nisl a purus blandit viverra. Donec mi odio, faucibus at, scelerisque quis, convallis in, nisi. Nam commodo suscipit quam. Vestibulum ante ipsum primis in faucibus orci luctus."
+    },
+    {
+      "id": 3,
+      "photo": "https://raw.githubusercontent.com/arifbw/bank-soal-spelling-master-json/master/gbr_chapter/daegu.jpg",
+      "nama": "Daegu",
+      "difficulty": "normal",
+      "price": 8000,
+      "desc": "Praesent nec nisl a purus blandit viverra. Donec mi odio, faucibus at, scelerisque quis, convallis in, nisi. Nam commodo suscipit quam. Vestibulum ante ipsum primis in faucibus orci luctus."
+    },
+    {
+      "id": 4,
+      "photo": "https://raw.githubusercontent.com/arifbw/bank-soal-spelling-master-json/master/gbr_chapter/daejeon.jpg",
+      "nama": "Daejeon",
+      "difficulty": "normal",
+      "price": 12000,
+      "desc": "Praesent nec nisl a purus blandit viverra. Donec mi odio, faucibus at, scelerisque quis, convallis in, nisi. Nam commodo suscipit quam. Vestibulum ante ipsum primis in faucibus orci luctus."
+    },
+    {
+      "id": 5,
+      "photo": "https://raw.githubusercontent.com/arifbw/bank-soal-spelling-master-json/master/gbr_chapter/gwangju.jpg",
+      "nama": "Gwangju",
+      "difficulty": "hard",
+      "price": 50000,
+      "desc": "Praesent nec nisl a purus blandit viverra. Donec mi odio, faucibus at, scelerisque quis, convallis in, nisi. Nam commodo suscipit quam. Vestibulum ante ipsum primis in faucibus orci luctus."
+    }
+  ],
+  "list_soal": [
+    {
+      "id": 1,
+      "id_chapter": 1,
+      "soal": "Contoh soal 1",
+      "jawaban": "ᄇᄇᄇ"
+    },
+    {
+      "id": 2,
+      "id_chapter": 1,
+      "soal": "Contoh soal 2",
+      "jawaban": "ᄇᄇᄇ"
+    },
+    {
+      "id": 2,
+      "id_chapter": 1,
+      "soal": "Contoh soal 3",
+      "jawaban": "ᄇᄇᄇ"
+    },
+    {
+      "id": 4,
+      "id_chapter": 1,
+      "soal": "Contoh soal 4",
+      "jawaban": "ᄇᄇᄇ"
+    },
+    {
+      "id": 5,
+      "id_chapter": 1,
+      "soal": "Contoh soal 5",
+      "jawaban": "ᄇᄇᄇ"
+    },
+    {
+      "id": 6,
+      "id_chapter": 2,
+      "soal": "Contoh soal 6",
+      "jawaban": "ᄇᄇᄇ"
+    },
+    {
+      "id": 7,
+      "id_chapter": 2,
+      "soal": "Contoh soal 7",
+      "jawaban": "ᄇᄇᄇ"
+    },
+    {
+      "id": 8,
+      "id_chapter": 2,
+      "soal": "Contoh soal 8",
+      "jawaban": "ᄇᄇᄇ"
+    },
+    {
+      "id": 9,
+      "id_chapter": 2,
+      "soal": "Contoh soal 9",
+      "jawaban": "ᄇᄇᄇ"
+    },
+    {
+      "id": 10,
+      "id_chapter": 2,
+      "soal": "Contoh soal 10",
+      "jawaban": "ᄇᄇᄇ"
+    }
+  ],
+  "versi": {
+    "kode": "1.0"
+  }
+}
